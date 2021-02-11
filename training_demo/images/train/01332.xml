@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>01332.jpg</filename>
+	<path>/home/t/Pyth/Bees_data/data/01332.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bee</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>15</ymin>
+			<xmax>287</xmax>
+			<ymax>288</ymax>
+		</bndbox>
+	</object>
+</annotation>
